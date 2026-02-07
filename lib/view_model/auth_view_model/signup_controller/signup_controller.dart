@@ -247,7 +247,7 @@ class SignupController extends GetxController {
           },
           icon: Icon(Icons.arrow_back),
         ),
-        apiKey: "AIzaSyCsBj_Q4IFt8Jbs6iS1R43DQUDE7zuHG-Y",
+        apiKey: "MAP_API_KEY",
         popOnNextButtonTaped: true,
         currentLatLng: const LatLng(21.183509, 72.783102),
         debounceDuration: const Duration(milliseconds: 500),
